@@ -2,8 +2,8 @@ import pandas as pd
 from glob import glob
 import datetime as dt
 '''
-Program that reads files from work LMS reports and formates a
-CSV with a preferred table build and all modules in on
+Program that reads the files from my work LMS reports and formates a
+excel file with the client name on all lines of the excel file.
 '''
 
 
